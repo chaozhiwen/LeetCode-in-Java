@@ -1,0 +1,38 @@
+import java.util.*;
+class Solution {
+    public int[] sortArrayByParityII(int[] A) {
+        Stack<Integer> odd=new Stack();
+        Stack<Integer> even=new Stack();
+        for(int i=0;i<A.length;i++){
+            if(A[i]%2==0){
+                odd.push(A[i]);
+            }else{
+                even.push(A[i]);
+            }
+        }
+        for(int i=0;i<A.length;i++){
+            if(i%2==0){
+                A[i]=odd.pop();
+            }else{
+                A[i]=even.pop();
+            }
+        }
+        return A;
+    }
+}
+class Main{
+	public static void main(String[] args){
+		Solution s=new Solution();
+		System.out.print("[1,0,1,0,1,0,1,0,1,0,1,0,1,0]--------->[");
+		int[] a={1,0,1,0,1,0,1,0,1,0,1,0,1,0};
+		a=s.sortArrayByParityII(a);
+		for(int i=0;i<a.length;i++){
+			System.out.print(a[i]);
+			if(i==a.length-1)
+				break;
+			System.out.print(",");
+		}
+		System.out.print("]");
+
+	}
+}
