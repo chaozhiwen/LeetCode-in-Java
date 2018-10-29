@@ -1,0 +1,25 @@
+class Solution {
+    public int reverse(int x) {
+        int num;
+        long sum=0;
+        while(x!=0){
+            sum=(sum*10+x%10);
+            x/=10;
+            
+        }
+        if(Integer.MAX_VALUE<sum||sum<Integer.MIN_VALUE)
+                return 0;
+        return (int)sum;
+    }
+}
+class Main{
+	public static void main(String[] args){
+		Solution s=new Solution();
+		System.out.println("0:"+s.reverse(0));
+		System.out.println("123456789:"+s.reverse(123456789));
+		System.out.println("-123456789:"+s.reverse(-123456789));
+		System.out.println("-2147483648:"+s.reverse(-2147483648));
+		System.out.println("214748364:"+s.reverse(214748364));
+		System.out.println("2147483647:"+s.reverse(2147483647));
+	}
+}
