@@ -2,7 +2,6 @@
 Given an integer, write a function to determine if it is a power of two.<br>
 <h3>Method</h3>
 I made a mistake that i calculated power of two since 2.As computer,it's a pretty time-comsumig process,so the program exceeded the time limit.
-But other way showed me that The binary numbers of all 2 integer powers only contains 0 or 1.In other words,we just need to take modulo operation
-constantly,and judge if the value equals 0 or 1
+But other way showed me that The binary numbers of all 2 integer powers only contains a 1.In other words,we just need to take modulo operation constantly,and judge how many 1 in number
 <h3>Algorithm Complexity</h3>
 O(log n)
