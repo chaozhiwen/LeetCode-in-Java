@@ -1,4 +1,3 @@
-import java.util.*;
 class Solution {
     //brute force
     public int maxArea(int[] height) {
