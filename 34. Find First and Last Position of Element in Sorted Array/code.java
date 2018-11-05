@@ -9,23 +9,26 @@ class Solution {
                 if(nums[j]==target){
                     a[1]=j;
                     break;
-                }else{
+                }
+                else{
                     j--;
                     continue;
                 }
-            }
-            if(nums[j]==target){
+            }else if(nums[j]==target){
                 a[1]=j;
                 if(nums[i]==target){
                     a[0]=i;
                     break;
-                }else{
+                }
+                else{
                     i++;
                     continue;
-                }                
+                }
+                
+            }else{
+                i++;
+                j--;
             }
-            i++;
-            j--;
         }
         return a;
     }      
