@@ -6,8 +6,7 @@ peek() -- Get the front element.<br>
 empty() -- Return whether the queue is empty.
 <h2>Method</h2>
 1.Initializing a stack in constructor.<br>
-2.Push().I consider the sequence,that the head of queue is the tail of stack.So I create a temp stack,poping all the elements to temp stack,this step can ensure
-the sequence of elements.Then adding element to original stack.Last,poping all elements to original stack.If  the original stack is empty,adding element to empy one.<br>
+2.Push().I consider the sequence,that the head of queue is the tail of stack.So I create a temp stack,poping all the elements to temp stack,this step can ensure the sequence of elements.Then adding element to original stack.Last,pushing all elements to original stack.If  the original stack is empty,adding element to empy one.<br>
 3.peek().Because of step 2,it ensure the sequence,so I can return the first element direct.But if there is no element in stack,returning 0.<br>
 4.pop().Refering to step 3.<br>
 5.empty().
