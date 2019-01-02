@@ -2,6 +2,7 @@
 
 | 题号 | 题目 |
 | :------: | :------ |
+| 3 | [无重复字符的最长子串--Longest Substring Without Repeating Characters](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/3.%20Longest%20Substring%20Without%20Repeating%20Characters) |
 | 7 | [整数翻转--Reverse Integer](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/7.%20Reverse%20Integer) |
 | 11 | [盛最多水的容器--Container With Most Water](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/11.%20Container%20With%20Most%20Water) |
 | 13 | [罗马数字转整数--Roman to Integer](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/13.%20Roman%20to%20Integer) |
