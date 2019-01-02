@@ -6,28 +6,30 @@ class TreeNode {
     TreeNode right;
     TreeNode(int x) { val = x; }
 }
-/* 改变题目要求，无返回值，直接输出 */
 class Solution {
-    public void levelOrder(TreeNode root) {
-        if(root==null) return;
+    public List<List<Integer>> levelOrder(TreeNode root) {
+        if(root==null) return new ArrayList<>();
         
+        List<List<Integer>> ans=new ArrayList<>();
         Queue<TreeNode> q=new LinkedList<>();
         TreeNode r=root;
         
         q.add(r);
         while(!q.isEmpty()){
+            List<Integer> tmp=new ArrayList<>();
             int count=q.size();
             while(count>0){
                 TreeNode node=q.poll();
-                System.out.print(node.val+" ");
+                tmp.add(node.val);
                 if(node.left!=null)
                     q.add(node.left);
                 if(node.right!=null)
                     q.add(node.right);
                 count--;
             }
-            System.out.println();
+            ans.add(tmp);
         }
+        return ans;
     }
 }
 
@@ -53,7 +55,12 @@ class Main{
 		t2.right=t5;
 		t3.left=t6;
 		t3.right=t7;
-		s.levelOrder(t1);
+		List<List<Integer>> a1=s.levelOrder(t1);
+		for(int i=0;i<a1.size();i++){
+			for(int j=0;j<a1.get(i).size();j++)
+				System.out.print(a1.get(i).get(j)+" ");
+			System.out.println();
+		}
 		System.out.println("**********************");
 		
 		
@@ -74,7 +81,12 @@ class Main{
 		g2.left=g4;
 		g2.right=g5;
 		g3.right=g6;
-		s.levelOrder(g1);
+		List<List<Integer>> a2=s.levelOrder(g1);
+		for(int i=0;i<a2.size();i++){
+			for(int j=0;j<a2.get(i).size();j++)
+				System.out.print(a2.get(i).get(j)+" ");
+			System.out.println();
+		}
 		System.out.println("**********************");
 		
 		
@@ -92,6 +104,11 @@ class Main{
 		q1.right=q3;
 		q2.left=q4;
 		q3.right=q5;
-		s.levelOrder(q1);
+		List<List<Integer>> a3=s.levelOrder(q1);
+		for(int i=0;i<a3.size();i++){
+			for(int j=0;j<a3.get(i).size();j++)
+				System.out.print(a3.get(i).get(j)+" ");
+			System.out.println();
+		}
 	}
 }
