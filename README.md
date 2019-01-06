@@ -60,6 +60,7 @@
 | 374 | [猜数字大小--Guess Number Higher or Lower](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/374.%20Guess%20Number%20Higher%20or%20Lower) |
 | 387 | [字符串中的第一个唯一字符--First Unique Character in a String](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/387.%20First%20Unique%20Character%20in%20a%20String) |
 | 389 | [找不同--Find the Difference](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/389.%20Find%20the%20Difference) |
+| 404 | [左叶子之和--Sum of Left Leaves](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/404.%20Sum%20of%20Left%20Leaves) |
 | 414 | [第三大的数--Third Maximum Number](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/414.%20Third%20Maximum%20Number) |
 | 434 | [字符串中的单词数--Number of Segments in a String](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/434.%20Number%20of%20Segments%20in%20a%20String) |
 | 442 | [数组中重复的数据--Find All Duplicates in an Array](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/442.%20Find%20All%20Duplicates%20in%20an%20Array) |
