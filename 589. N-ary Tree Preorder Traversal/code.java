@@ -35,11 +35,11 @@ class Main{
 		
 		Solution s=new Solution();
 		
-		/*       		1              */
+		/*       	   1              */
 		/*    		/  |  \           */
-		/*   	     2   3   4          */
-		/*  		 /|\  |   /\         */
-		/*      5 6  7 8  9 10        */
+		/*   	       2   3   4          */
+		/*  	      /|\  |   /\         */
+		/*           5 6 7 8  9 10        */
 		TreeNode t5=new TreeNode(5,new ArrayList<TreeNode>());
 		TreeNode t6=new TreeNode(6,new ArrayList<TreeNode>());
 		TreeNode t7=new TreeNode(7,new ArrayList<TreeNode>());
