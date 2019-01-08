@@ -98,6 +98,7 @@
 | 832 | [翻转图像--Flipping an Image](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/832.%20Flipping%20an%20Image) |
 | 860 | [柠檬水找零--Lemonade Change](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/860.%20Lemonade%20Change) |
 | 868 | [二进制间距--Binary Gap](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/868.%20Binary%20Gap) |
+| 872 | [叶子相似的树--Leaf-Similar Trees](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/872.%20Leaf-Similar%20Trees) |
 | 876 | [链表的中间结点--Middle of the Linked List](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/876.%20Middle%20of%20the%20Linked%20List) |
 | 884 | [两句话中的不常见单词--Uncommon Words from Two Sentences](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/884.%20Uncommon%20Words%20from%20Two%20Sentences) |
 | 922 | [按奇偶排序数组 II--Sort Array By Parity II](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/922.%20Sort%20Array%20By%20Parity%20II) |
