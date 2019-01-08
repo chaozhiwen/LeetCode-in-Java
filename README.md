@@ -83,6 +83,7 @@
 | 589 | [N叉树的前序遍历--N-ary Tree Preorder Traversal](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/589.%20N-ary%20Tree%20Preorder%20Traversal) |
 | 628 | [三个数的最大乘积--Maximum Product of Three Numbers](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/628.%20Maximum%20Product%20of%20Three%20Numbers) |
 | 637 | [二叉树的层平均值--Average of Levels in Binary Tree](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/637.%20Average%20of%20Levels%20in%20Binary%20Tree) |
+| 700 | [二叉搜索树中的搜索--Search in a Binary Search Tree](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/700.%20Search%20in%20a%20Binary%20Search%20Tree) |
 | 706 | [设计哈希映射--Design HashMap](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/706.%20Design%20HashMap) |
 | 717 | [1比特与2比特字符--1-bit and 2-bit Characters](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/717.%201-bit%20and%202-bit%20Characters) |
 | 728 | [自除数--Self Dividing Numbers](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/728.%20Self%20Dividing%20Numbers) |
