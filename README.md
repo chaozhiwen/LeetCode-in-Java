@@ -15,6 +15,7 @@
 | 73 | [矩阵置零--Set Matrix Zeroes](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/73.%20Set%20Matrix%20Zeroes) |
 | 74 | [搜索二维矩阵--Search a 2D Matrix](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/74.%20Search%20a%202D%20Matrix) |
 | 94 | [二叉树的中序遍历--Binary Tree Inorder Traversal](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/94.%20Binary%20Tree%20Inorder%20Traversal) |
+| 98 | [验证二叉搜索树--Validate Binary Search Tree](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/98.%20Validate%20Binary%20Search%20Tree) |
 | 100 | [相同树--Same Tree](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/100.%20Same%20Tree) |
 | 101 | [对称二叉树--Symmetric Tree](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/101.%20Symmetric%20Tree) |
 | 102 | [二叉树的层次遍历--Binary Tree Level Order Traversal](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/102.%20Binary%20Tree%20Level%20Order%20Traversal) |
