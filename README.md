@@ -63,6 +63,7 @@
 | 389 | [找不同--Find the Difference](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/389.%20Find%20the%20Difference) |
 | 404 | [左叶子之和--Sum of Left Leaves](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/404.%20Sum%20of%20Left%20Leaves) |
 | 414 | [第三大的数--Third Maximum Number](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/414.%20Third%20Maximum%20Number) |
+| 429 | [N叉树的层序遍历--N-ary Tree Level Order Traversal](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/429.%20N-ary%20Tree%20Level%20Order%20Traversal) |
 | 434 | [字符串中的单词数--Number of Segments in a String](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/434.%20Number%20of%20Segments%20in%20a%20String) |
 | 442 | [数组中重复的数据--Find All Duplicates in an Array](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/442.%20Find%20All%20Duplicates%20in%20an%20Array) |
 | 448 | [找到所有数组中消失的数字--Find All Numbers Disappeared in an Array](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array) |
