@@ -45,8 +45,9 @@ next() 和 hasNext() 操作的时间复杂度是 O(1)，并使用 O(h) 内存，
 ```
 ```java
 /*  hasNext()方法：返回是否还有元素未访问
- *  栈空，则节点访问完毕
- *  反之，取反
+ *  栈空，则节点访问完毕，反之，取反
+ *  时间复杂度：O(1)
+ *  空间复杂度：O(1)
  */
     public boolean hasNext() {
         return !s.empty();
