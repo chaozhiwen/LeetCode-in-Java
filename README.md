@@ -44,8 +44,8 @@
 | 224 | [基本计算器--Basic Calculator](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/224.%20Basic%20Calculator) |
 | 225 | [用队列实现栈--Implement Stack using Queues](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/225.%20Implement%20Stack%20using%20Queues) |
 | 226 | [翻转二叉树--Invert Binary Tree](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/226.%20Invert%20Binary%20Tree) |
-| 230 | [二叉搜索树中第K小的元素--Kth Smallest Element in a BST](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/230.%20Kth%20Smallest%20Element%20in%20a%20BST) |
 | 228 | [汇总区间--Summary Ranges](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/228.%20Summary%20Ranges) |
+| 230 | [二叉搜索树中第K小的元素--Kth Smallest Element in a BST](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/230.%20Kth%20Smallest%20Element%20in%20a%20BST) |
 | 231 | [2的幂--Power of Two](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/231.%20Power%20of%20Two) |
 | 232 | [用栈实现队列--Implement Queue using Stacks](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/232.%20Implement%20Queue%20using%20Stacks) |
 | 234 | [回文链表--Palindrome Linked List](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/234.%20Palindrome%20Linked%20List) |
