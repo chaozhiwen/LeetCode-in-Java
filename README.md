@@ -87,6 +87,7 @@
 | 637 | [二叉树的层平均值--Average of Levels in Binary Tree](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/637.%20Average%20of%20Levels%20in%20Binary%20Tree) |
 | 654 | [最大二叉树--Maximum Binary Tree](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/654.%20Maximum%20Binary%20Tree) |
 | 700 | [二叉搜索树中的搜索--Search in a Binary Search Tree](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/700.%20Search%20in%20a%20Binary%20Search%20Tree) |
+| 701 | [二叉搜索树中的插入操作--Insert into a Binary Search Tree](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/701.%20Insert%20into%20a%20Binary%20Search%20Tree)_ |
 | 706 | [设计哈希映射--Design HashMap](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/706.%20Design%20HashMap) |
 | 717 | [1比特与2比特字符--1-bit and 2-bit Characters](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/717.%201-bit%20and%202-bit%20Characters) |
 | 728 | [自除数--Self Dividing Numbers](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/728.%20Self%20Dividing%20Numbers) |
