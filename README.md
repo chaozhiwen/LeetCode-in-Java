@@ -110,5 +110,6 @@
 | 884 | [两句话中的不常见单词--Uncommon Words from Two Sentences](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/884.%20Uncommon%20Words%20from%20Two%20Sentences) |
 | 922 | [按奇偶排序数组 II--Sort Array By Parity II](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/922.%20Sort%20Array%20By%20Parity%20II) |
 | 929 | [独特的电子邮件地址--Unique Email Addresses](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/929.%20Unique%20Email%20Addresses) |
+| 938 | [二叉搜索树的范围和--Range Sum of BST](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/938.%20Range%20Sum%20of%20BST) |
 | 946 | [验证栈序列--Validate Stack Sequences](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/946.%20Validate%20Stack%20Sequences) |
 | 965 | [单值二叉树--Univalued Binary Tree](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/965.%20Univalued%20Binary%20Tree) |
