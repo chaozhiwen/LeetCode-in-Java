@@ -75,6 +75,7 @@
 | 448 | [找到所有数组中消失的数字--Find All Numbers Disappeared in an Array](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array) |
 | 461 | [汉明距离--Hamming Distance](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/461.%20Hamming%20Distance) |
 | 476 | [数字的补数--Number Complement](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/476.%20Number%20Complement) |
+| 482 | [密钥格式化--License Key Formatting](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/482.%20License%20Key%20Formatting) |
 | 485 | [最大连续1的个数--Max Consecutive one](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/485.%20Max%20Consecutive%20one) |
 | 506 | [相对名次--Relative Ranks](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/506.%20Relative%20Ranks) |
 | 509 | [斐波那契数--Fibonacci Number](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/509.%20Fibonacci%20Number) |
