@@ -79,7 +79,7 @@
 | 476 | [数字的补数--Number Complement](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/476.%20Number%20Complement) |
 | 482 | [密钥格式化--License Key Formatting](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/482.%20License%20Key%20Formatting) |
 | 485 | [最大连续1的个数--Max Consecutive one](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/485.%20Max%20Consecutive%20one) |
-| 500 | [最大行--Keyboard Row](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/500.%20Keyboard%20Row) |
+| 500 | [键盘行--Keyboard Row](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/500.%20Keyboard%20Row) |
 | 506 | [相对名次--Relative Ranks](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/506.%20Relative%20Ranks) |
 | 509 | [斐波那契数--Fibonacci Number](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/509.%20Fibonacci%20Number) |
 | 513 | [找树左下角的值--Find Bottom Left Tree Value](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/513.%20Find%20Bottom%20Left%20Tree%20Value) |
