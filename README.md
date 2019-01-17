@@ -89,6 +89,7 @@
 | 551 | [学生出勤记录 I --Student Attendance Record I](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/551.%20Student%20Attendance%20Record%20I) |
 | 557 | [反转字符串中的单词 III--Reverse Words in a String III](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/557.%20Reverse%20Words%20in%20a%20String%20III) |
 | 559 | [N叉树的最大深度--Maximum Depth of N-ary Tree](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/559.%20Maximum%20Depth%20of%20N-ary%20Tree) |
+| 575 | [分糖果--Distribute Candies](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/575.%20Distribute%20Candies) |
 | 561 | [数组拆分 I--Array Partition I](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/561.%20Array%20Partition%20I) |
 | 566 | [重塑矩阵--Reshape the Matrix](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/566.%20Reshape%20the%20Matrix) |
 | 589 | [N叉树的前序遍历--N-ary Tree Preorder Traversal](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/589.%20N-ary%20Tree%20Preorder%20Traversal) |
