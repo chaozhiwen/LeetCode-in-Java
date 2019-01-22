@@ -12,6 +12,7 @@
 | 34 | [在排序数组中查找元素的第一个和最后一个位置--Find First and Last Position of Element in Sorted Array](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array) |
 | 58 | [最后一个单词的长度--Length of Last Word](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/58.Length%20of%20Last%20Word) |
 | 66 | [加一--Plus One](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/66.Plus%20One) |
+| 71 | [简化路径--Simplify Path](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/71.%20Simplify%20Path) |
 | 73 | [矩阵置零--Set Matrix Zeroes](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/73.%20Set%20Matrix%20Zeroes) |
 | 74 | [搜索二维矩阵--Search a 2D Matrix](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/74.%20Search%20a%202D%20Matrix) |
 | 94 | [二叉树的中序遍历--Binary Tree Inorder Traversal](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/94.%20Binary%20Tree%20Inorder%20Traversal) |
