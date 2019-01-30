@@ -71,6 +71,7 @@
 | 263 | [丑数--Ugly Number](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/263.%20Ugly%20Number) |
 | 268 | [缺失数字--Missing Number](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/268.Missing%20Number) |
 | 283 | [移动零--Move Zeroes](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/283.%20Move%20Zeroes) |
+| 290 | [单词模式--Word Pattern](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/290.%20Word%20Pattern) |
 | 299 | [猜数字游戏--Bulls and Cows](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/299.%20Bulls%20and%20Cows) |
 | 303 | [区域和检索--数组不可变-Range Sum Query - Immutable](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/303.%20Range%20Sum%20Query%20-%20Immutable) |
 | 338 | [比特位计数--Counting Bits](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/338.%20Counting%20Bits) |
