@@ -18,6 +18,7 @@
 | 71 | [简化路径--Simplify Path](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/71.%20Simplify%20Path) |
 | 73 | [矩阵置零--Set Matrix Zeroes](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/73.%20Set%20Matrix%20Zeroes) |
 | 74 | [搜索二维矩阵--Search a 2D Matrix](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/74.%20Search%20a%202D%20Matrix) |
+| 82 | [删除排序链表中的重复元素 II--Remove Duplicates from Sorted List II](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II) |
 | 92 | [反转链表 II--Reverse Linked List II](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/92.%20Reverse%20Linked%20List%20II) |
 | 94 | [二叉树的中序遍历--Binary Tree Inorder Traversal](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/94.%20Binary%20Tree%20Inorder%20Traversal) |
 | 98 | [验证二叉搜索树--Validate Binary Search Tree](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/98.%20Validate%20Binary%20Search%20Tree) |
