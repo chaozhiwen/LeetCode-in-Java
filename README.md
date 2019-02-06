@@ -12,6 +12,7 @@
 | 34 | [在排序数组中查找元素的第一个和最后一个位置--Find First and Last Position of Element in Sorted Array](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array) |
 | 53 | [最大子序和--Maximum Subarray](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/53.%20Maximum%20Subarray) |
 | 58 | [最后一个单词的长度--Length of Last Word](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/58.Length%20of%20Last%20Word) |
+| 61 | [旋转链表--Rotate List](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/61.%20Rotate%20List) |
 | 62 | [不同路径--Unique Paths](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/62.%20Unique%20Paths) |
 | 64 | [最小路径和--Minimum Path Sum](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/64.%20Minimum%20Path%20Sum) |
 | 66 | [加一--Plus One](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/66.Plus%20One) |
