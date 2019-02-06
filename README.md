@@ -77,6 +77,7 @@
 | 290 | [单词模式--Word Pattern](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/290.%20Word%20Pattern) |
 | 299 | [猜数字游戏--Bulls and Cows](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/299.%20Bulls%20and%20Cows) |
 | 303 | [区域和检索--数组不可变-Range Sum Query - Immutable](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/303.%20Range%20Sum%20Query%20-%20Immutable) |
+| 328 | [奇偶链表--Odd Even Linked List](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/328.%20Odd%20Even%20Linked%20List) |
 | 338 | [比特位计数--Counting Bits](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/338.%20Counting%20Bits) |
 | 345 | [反转字符串中的元音字母--Reverse Vowels of a String](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/345.Reverse%20Vowels%20of%20a%20String) |
 | 349 | [两个数组的交集--Intersection of Two Arrays](https://github.com/chaozhiwen/LeetCode-in-Java/tree/master/349.%20Intersection%20of%20Two%20Arrays) |
